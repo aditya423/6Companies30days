@@ -22,6 +22,22 @@ int numberOfBoomerangs(vector<vector<int>>& points) {
 int main() {
 
     vector<vector<int>> points = {{0,0}, {1,0}, {2,0}};
+    
+    // {0,0} to {0,0} --> d=0
+    // {0,0} to {1,0} --> d=1
+    // {0,0} to {2,0} --> d=4
+
+    // {1,0} to {0,0} --> d=1
+    // {1,0} to {1,0} --> d=0
+    // {1,0} to {2,0} --> d=1
+
+    // {2,0} to {0,0} --> d=4
+    // {2,0} to {1,0} --> d=1
+    // {2,0} to {2,0} --> d=0
+
+    // repeat 1 time --> no effect --> 0
+    // repeat 2 time --> no effect --> 2
+    // repeat 3 time --> no effect --> 2 + 4 --> 6
 
     cout<<numberOfBoomerangs(points)<<endl;
 
