@@ -7,7 +7,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 <details>
 <summary style="font-size: 1.2em">Microsoft</summary>
 
-1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) :white_check_mark:
 2. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 3. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 4. [Rotate Function](https://leetcode.com/problems/rotate-function/)
