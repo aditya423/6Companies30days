@@ -28,20 +28,20 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 <details>
 <summary style="font-size: 1.2em">Goldman Sachs</summary>
 
-1. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-2. [Valid Square](https://leetcode.com/problems/valid-square/)
-3. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-4. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
-5. [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
-6. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
-7. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
+1. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) :white_check_mark:
+2. [Valid Square](https://leetcode.com/problems/valid-square/) :white_check_mark:
+3. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) :white_check_mark:
+4. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) :white_check_mark:
+5. [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) :white_check_mark:
+6. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) :white_check_mark:
+7. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) 
 8. [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
 9. [IPO](https://leetcode.com/problems/ipo/)
 10. [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
-11. [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)
-12. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+11. [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) :white_check_mark:
+12. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) :white_check_mark:
 13. [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/)
-14. [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+14. [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) :white_check_mark:
 15. [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
 
 </details>
