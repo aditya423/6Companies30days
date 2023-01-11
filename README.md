@@ -45,3 +45,24 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 15. [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
 
 </details>
+
+<details>
+<summary style="font-size: 1.2em">Adobe</summary>
+
+1. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) 
+2. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) 
+3. [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) 
+4. [Magical String](https://leetcode.com/problems/magical-string/) 
+5. [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) 
+6. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) 
+7. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) 
+8. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+9. [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+10. [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)
+11. [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) 
+12. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) 
+13. [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+14. [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) 
+15. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)
+
+</details>
