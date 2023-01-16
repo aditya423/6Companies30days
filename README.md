@@ -66,3 +66,24 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 15. [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)
 
 </details>
+
+<details>
+<summary style="font-size: 1.2em">Flipkart</summary>
+
+1. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) 
+2. [Shopping Offers](https://leetcode.com/problems/shopping-offers/) 
+3. [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) 
+4. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) 
+5. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) 
+6. [Number of ways to separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) 
+7. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) 
+8. [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)
+9. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+10. [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
+11. [New 21 Game](https://leetcode.com/problems/new-21-game/) 
+12. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) 
+13. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+14. [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) 
+15. [House Robber III - Very Imp](https://leetcode.com/problems/house-robber-iii/)
+
+</details>
