@@ -87,3 +87,25 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 15. [House Robber III - Very Imp](https://leetcode.com/problems/house-robber-iii/)
 
 </details>
+
+
+<details>
+<summary style="font-size: 1.2em">Google</summary>
+
+1. [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) 
+2. [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) 
+3. [Sort an Array](https://leetcode.com/problems/sort-an-array/) 
+4. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) 
+5. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) 
+6. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) 
+7. [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) 
+8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) 
+9. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) 
+10. [Network Delay Time](https://leetcode.com/problems/network-delay-time/) 
+11. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) 
+12. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) 
+13. [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) 
+14. [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) 
+15. [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) 
+
+</details>
