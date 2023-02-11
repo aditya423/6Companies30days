@@ -109,3 +109,25 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 15. [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) 
 
 </details>
+
+
+<details>
+<summary style="font-size: 1.2em">Amazon</summary>
+
+1. [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) 
+2. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) 
+3. [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) 
+4. [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) 
+5. [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) 
+6. [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) 
+7. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) 
+8. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) 
+9. [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) 
+10. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) 
+11. [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) 
+12. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) 
+13. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) 
+14. [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)  
+15. [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)  
+
+</details>
