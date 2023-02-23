@@ -36,7 +36,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 6. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) :white_check_mark:
 7. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) 
 8. [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
-9. [IPO](https://leetcode.com/problems/ipo/)
+9. [IPO](https://leetcode.com/problems/ipo/) :white_check_mark:
 10. [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
 11. [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) :white_check_mark:
 12. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) :white_check_mark:
